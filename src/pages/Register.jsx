@@ -110,7 +110,7 @@ const Register = () => {
           </div>
 
           <p className="mt-auto mx-auto text-light-onSurfaceVariant dark:text-dark-onSurfaceVariant text-bodyMedium lg:mx-0">
-            &copy; 2025 Coding with Panda. All rights reserved.
+            &copy; 2025 Panda Productions. All rights reserved.
           </p>
         </div>
 
